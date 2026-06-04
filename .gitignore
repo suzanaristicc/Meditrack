@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.env
+apps/api/data
+apps/web/node_modules
+apps/**/dist
+coverage
+.vscode
