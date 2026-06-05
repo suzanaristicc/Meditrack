@@ -127,6 +127,9 @@ curl -X POST http://localhost:4000/api/orders \
   }'
 ```
 
+Obs för Windows PowerShell: curl-exemplen ovan är skrivna i bash-format. 
+Om JSON-citattecken strular i PowerShell, använd `Invoke-RestMethod` eller kör kommandona i Git Bash.
+
 ## Arkitektur
 
 ```text
